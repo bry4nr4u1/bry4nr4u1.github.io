@@ -18,6 +18,8 @@ y tengo el nombre de usuario : **bry4nr4u1**, en github.
 
 > Soy Ingeniero de Sistemas. 
 
+___
+
 <!--Italica y Negrita-->
 ***Puedes clonar mi primer repositorio creado a traves del siguiente link*** 
 
@@ -45,9 +47,13 @@ git clone https://github.com/bry4nr4u1/sc-db-proj-internet-movil.git
 
 Visita mi perfil de github [Presiona Aqui](https://github.com/bry4nr4u1)
 
+***
+
 Cupones con 100% descuento para cursos de certificación Azure (Valido hasta el 31/12/2024) [Presiona aqui](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
 
 Si no te funciona el link anterior, prueba con este [Intenta aqui](https://www.youtube.com/watch?v=ktSf3ajdfkk&ab_channel=NontechBunker)
+
+---
 
 ### Juegos favoritos
 
@@ -65,5 +71,6 @@ Si no te funciona el link anterior, prueba con este [Intenta aqui](https://www.y
 
 ![Verdugo pasos prohibidos](https://media.tenor.com/KiPvFAaJnLQAAAAj/resident-evil-4-verdugo.gif)
 
+***
 
-
+Mis animales favoritos son :dog:
