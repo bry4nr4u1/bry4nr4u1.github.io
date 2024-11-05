@@ -73,4 +73,15 @@ Si no te funciona el link anterior, prueba con este [Intenta aqui](https://www.y
 
 ***
 
+<!--Emoji -->
+
 Mis animales favoritos son :dog:
+
+<!--Tablas -->
+
+Datos sobre mi :
+
+| Nombres     | Apellidos | Edad | Profesion |
+|-------------|-----------|------|-----------|
+|Brayan Raul  | Sullca Ccarampa | 29 | Ingeniero de Sistemas |
+|Kevin Lee| Villanueva Trujillo |31 | Ingeniero de Sistemas |
